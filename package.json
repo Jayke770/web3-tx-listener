@@ -1,0 +1,16 @@
+{
+  "name": "web3-tx-listener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node tx.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "web3": "^1.9.0"
+  }
+}
